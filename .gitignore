@@ -1,0 +1,48 @@
+# CodeBlocks files
+*.cbp
+*.layout
+*.depend
+*.save
+
+# Compiled Object files
+*.o
+*.obj
+*.slo
+*.lo
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directories
+bin/
+obj/
+Debug/
+Release/
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# IDE files
+.vscode/
+.idea/
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*~
+*.swp
+*.bak
+
+# Log files
+*.log

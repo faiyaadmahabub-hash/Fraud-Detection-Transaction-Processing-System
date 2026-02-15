@@ -1,0 +1,8 @@
+{
+  "performance_summary": {
+    "data_structures_tested": ["Dynamic Array", "Linked List"],
+    "algorithms_tested": ["Merge Sort", "Quick Sort", "Heap Sort", "Binary Search", "Interpolation Search", "Exponential Search"],
+    "export_timestamp": "2024-Performance-Export",
+    "note": "Run performance tests to generate detailed metrics"
+  }
+}
