@@ -1,13 +1,7 @@
 # Financial Data Management System & Performance Comparison
 
-**Course:** CT077-3-2 DSTR - Data Structures  
-**Institution:** Asia Pacific University of Technology & Innovation  
-**Intake:** APU-APD-2F24CS11  
-**Assignment Weight:** 30%
 
 ## 📋 Table of Contents
-
-- [Team Members](#team-members)
 - [Project Overview](#project-overview)
 - [System Architecture](#system-architecture)
 - [Key Features](#key-features)
@@ -20,14 +14,6 @@
 - [Future Improvements](#future-improvements)
 - [References](#references)
 
-## 👥 Team Members
-
-| Name | TP Number | Contribution |
-|------|-----------|-------------|
-| **Faiyad Mahabub Tasin** | TP077983 | 40% |
-| **Emmanuel Naranendhya Tyatan** | TP078574 | 30% |
-| **Shuhaab Shakeel Bhat** | TP078931 | 30% |
-| Abdullah Al Faiyaz | TP077873 | 0% |
 
 ## 🎯 Project Overview
 
@@ -408,7 +394,3 @@ This project is an academic assignment for CT077-3-2 DSTR - Data Structures at A
 
 ---
 
-**Submission Details:**
-- **Hand Out Date:** 26 May 2025
-- **Hand In Date:** 6 July 2025
-- **Weightage:** 30%
