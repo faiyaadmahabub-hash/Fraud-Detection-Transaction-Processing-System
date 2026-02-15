@@ -386,11 +386,3 @@ Millisecond differences translate to millions of dollars in fraud prevention, br
 
 This project is an academic assignment for CT077-3-2 DSTR - Data Structures at Asia Pacific University.
 
-## 🙏 Acknowledgments
-
-- **Lecturer:** DR. KUAN YIK JUNN
-- **Institution:** Asia Pacific University of Technology & Innovation
-- **Course:** CT077-3-2 DSTR - Data Structures
-
----
-
